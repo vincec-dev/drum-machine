@@ -1,0 +1,8 @@
+button {
+  height: 150px;
+  background-color: #232526;
+  color: white;
+  /* border: solid #86232C 2px; */
+}
+
+button:focus {outline: 0 !important};
